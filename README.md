@@ -1,5 +1,5 @@
-# nof_yos
-project
+
+
 The project consists of two parts:
 Part One-Fashion Mnist:
 The goal is to identify the type of garment - there are ten types in total.
